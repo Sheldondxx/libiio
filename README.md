@@ -34,6 +34,15 @@ As with many open source packages, we use [GitHub](https://github.com/analogdevi
   - If you want to just use libiio, we suggest using the [latest release](https://github.com/analogdevicesinc/libiio/releases/latest).
   - If you think you have found a bug in the release, or need a feature which isn't in the release, try the [latest **untested** binaries](README_DEVELOPERS.md) from the main branch and check out the [documentation](https://codedocs.xyz/analogdevicesinc/libiio/) based on the main branch. We provide builds for a few operating systems. If you need something else, we can most likely add that -- just ask.
 
+|    | Release | Windows | MacOS | Linux | ARM | MINGW |
+|:--:|:-------:|:-------:|:-----:|:-----:|:---:|:-----:|
+| ![Latest Release](https://img.shields.io/badge/latest-green?style=flat&logo=github) | [![](https://img.shields.io/badge/Libiio%20Release-v0.26-green)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.26) | Windows-64 Server 2019 <br> Windows-64 Server 2022 | macOS Ventura (v13 x64) <br> macOS Ventura (v13 arm64) <br> macOS Monterey (v12) | Ubuntu Jammy Jellyfish (v 22.04) <br> Ubuntu Focal Fossa (v 20.04) <br> Ubuntu Bionic Beaver (v 18.04) <br> Fedora 34 <br> Fedora 28 <br> CentOS 7 <br> Debian Bullseye <br> openSUSE 15.4 | Ubuntu-ppc64le <br> Ubuntu-x390x <br> Ubuntu-arm64v8 <br> Ubuntu-arm32v7 | - |
+| | [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.25-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.25) | To be added | To be added | To be added | To be added | To be added |
+| | [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.24-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.24) | To be added | To be added | To be added | To be added | To be added |
+| | [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.23-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.23) | To be added | To be added | To be added | To be added | To be added |
+
+See all releases [here](https://github.com/analogdevicesinc/libiio/releases).
+
 If you use it, and like it - please let us know. If you use it, and hate it - please let us know that too. The goal of the project is to try to make Linux IIO devices easier to use on a variety of platforms. If we aren't doing that - we will try to make it better.
 
 Feedback is appreciated (in order of preference):
