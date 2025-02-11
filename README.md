@@ -34,12 +34,31 @@ As with many open source packages, we use [GitHub](https://github.com/analogdevi
   - If you want to just use libiio, we suggest using the [latest release](https://github.com/analogdevicesinc/libiio/releases/latest).
   - If you think you have found a bug in the release, or need a feature which isn't in the release, try the [latest **untested** binaries](README_DEVELOPERS.md) from the main branch and check out the [documentation](https://codedocs.xyz/analogdevicesinc/libiio/) based on the main branch. We provide builds for a few operating systems. If you need something else, we can most likely add that -- just ask.
 
-|    | Release | Windows | MacOS | Linux | ARM | MINGW |
-|:--:|:-------:|:-------:|:-----:|:-----:|:---:|:-----:|
-| ![Latest Release](https://img.shields.io/badge/latest-green?style=flat&logo=github) | [![](https://img.shields.io/badge/Libiio%20Release-v0.26-green)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.26) | Windows-64 Server 2019 <br> Windows-64 Server 2022 | macOS Ventura (v13 x64) <br> macOS Ventura (v13 arm64) <br> macOS Monterey (v12) | Ubuntu Jammy Jellyfish (v 22.04) <br> Ubuntu Focal Fossa (v 20.04) <br> Ubuntu Bionic Beaver (v 18.04) <br> Fedora 34 <br> Fedora 28 <br> CentOS 7 <br> Debian Bullseye <br> openSUSE 15.4 | Ubuntu-ppc64le <br> Ubuntu-x390x <br> Ubuntu-arm64v8 <br> Ubuntu-arm32v7 | - |
-| | [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.25-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.25) | To be added | To be added | To be added | To be added | To be added |
-| | [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.24-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.24) | To be added | To be added | To be added | To be added | To be added |
-| | [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.23-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.23) | To be added | To be added | To be added | To be added | To be added |
+# Latest Releases
+
+### [![](https://img.shields.io/badge/Libiio%20Release-v0.26-green)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.26) ![Latest Release](https://img.shields.io/badge/latest-green?style=flat&logo=github)
+
+| Operating System | Version | Installer Package |
+|:----------------:|:-------:|:-----------------:|
+| Windows | Windows-64 Server 2019 | [![Windows-64 Server 2019](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/win_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d2-setup.exe) |
+| | Windows-64 Server 2022 | [![Windows-64 Server 2022](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/win_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d2-setup.exe) |
+| MacOS |  macOS Ventura (v13 x64) | [![macOS Ventura (v13 x64)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/osx_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d-macOS-13-x64.pkg) |
+| | macOS Ventura (v13 arm64) | [![macOS Ventura (v13 arm64)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/osx_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d-macOS-13-arm64.pkg) |
+| | macOS Monterey (v12) | [![macOS Monterey (v12)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/osx_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d-macOS-12.pkg) |
+| Linux | Ubuntu Jammy Jellyfish (v 22.04) | [![Ubuntu Jammy Jellyfish (v 22.04)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d-Linux-Ubuntu-22.04.deb) |
+| | Ubuntu Focal Fossa (v 20.04) | [![Ubuntu Jammy Jellyfish (v 22.04)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d-Linux-Ubuntu-20.04.deb) |
+| | Ubuntu Bionic Beaver (v 18.04) | [![Ubuntu Bionic Beaver (v 18.04)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d-Linux-Ubuntu-18.04.deb) |
+| | Fedora 34 | [![Fedora 34](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/rpm.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d-Linux-Fedora-34.rpm) |
+| | Fedora 28 | [![Fedora 28](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/rpm.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d-Linux-Fedora-28.rpm) |
+| | CentOS 7 | [![CentOS 7](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/rpm.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d-Linux-CentOS-7.rpm) |
+| | Debian Bullseye | [![Debian Bullseye](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.ga0eca0d-Linux-Debian-11.deb) |
+| ARM | Ubuntu-ppc64le | [![Ubuntu-ppc64le](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.g-Ubuntu-ppc64le.deb) |
+| | Ubuntu-x390x | [![Ubuntu-x390x](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.g-Ubuntu-x390x.deb) |
+| | Ubuntu-arm64v8 | [![Ubuntu-arm64v8](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.g-Ubuntu-arm64v8.deb) |
+| | Ubuntu-arm32v7 | [![Ubuntu-arm32v7](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.g-Ubuntu-arm32v7.deb) |
+
+### [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.25-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.25)
+### [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.24-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.24)
 
 See all releases [here](https://github.com/analogdevicesinc/libiio/releases).
 
