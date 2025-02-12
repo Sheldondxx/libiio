@@ -58,6 +58,26 @@ As with many open source packages, we use [GitHub](https://github.com/analogdevi
 | | Ubuntu-arm32v7 | [![Ubuntu-arm32v7](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.26/libiio-0.26.g-Ubuntu-arm32v7.deb) |
 
 ### [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.25-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.25)
+<details> <summary>Click to Expand Installers Table</summary>
+
+| Operating System | Version | Installer Package |
+|:----------------:|:-------:|:-----------------:|
+| Windows | Windows-64 Server 2019 | [![Windows-64 Server 2019](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/win_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-setup.exe) |
+| | Windows-64 Server 2022 | [![Windows-64 Server 2022](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/win_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-setup.exe) |
+| Linux | Ubuntu Jammy Jellyfish (v 22.04) | [![Ubuntu Jammy Jellyfish (v 22.04)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Linux-Ubuntu-22.04.deb) |
+| | Ubuntu Focal Fossa (v 20.04) | [![Ubuntu Jammy Jellyfish (v 22.04)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Linux-Ubuntu-20.04.deb) |
+| | Ubuntu Bionic Beaver (v 18.04) | [![Ubuntu Bionic Beaver (v 18.04)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Linux-Ubuntu-18.04.deb) |
+| | Fedora 34 | [![Fedora 34](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/rpm.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Linux-Fedora-34.rpm) |
+| | Fedora 28 | [![Fedora 28](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/rpm.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Linux-Fedora-28.rpm) |
+| | CentOS 7 | [![CentOS 7](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/rpm.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Linux-CentOS-7.rpm) |
+| | Debian Bullseye | [![Debian Bullseye](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Linux-Debian-11.deb) |
+| | openSUSE 15.4 | [![openSUSE 15.4](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/rpm.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Linux-openSUSE-15.4.rpm) |
+| ARM | Ubuntu-ppc64le | [![Ubuntu-ppc64le](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Ubuntu-ppc64le.deb) |
+| | Ubuntu-x390x | [![Ubuntu-x390x](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Ubuntu-x390x.deb) |
+| | Ubuntu-arm64v8 | [![Ubuntu-arm64v8](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Ubuntu-arm64v8.deb) |
+| | Ubuntu-arm32v7 | [![Ubuntu-arm32v7](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.25/libiio-0.25.gb6028fd-Ubuntu-arm32v7.deb) |
+</details>
+
 ### [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.24-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.24)
 
 See all releases [here](https://github.com/analogdevicesinc/libiio/releases).
