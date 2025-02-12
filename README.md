@@ -79,6 +79,26 @@ As with many open source packages, we use [GitHub](https://github.com/analogdevi
 </details>
 
 ### [![Libiio release](https://img.shields.io/badge/Libiio%20Release-v0.24-blue)](https://github.com/analogdevicesinc/libiio/releases/tag/v0.24)
+<details> <summary>Click to Expand Installers Table</summary>
+
+| Operating System | Version | Installer Package |
+|:----------------:|:-------:|:-----------------:|
+| Windows | Windows-64 Server 2019 | [![Windows-64 Server 2019](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/win_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-Windows-setup.exe) |
+| | Windows-64 Server 2022 | [![Windows-64 Server 2022](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/win_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-Windows-setup.exe) |
+| MacOS | macOS Big Sur (v 11) | [![macOS Big Sur (v 11)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/osx_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-macOS-11.pkg) |
+| MacOS | macOS Big Sur (v 11) - no libzstd | [![macOS Big Sur (v 11) - no libzstd](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/osx_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-macOS-11-no-libzstd.pkg) |
+| | macOS Catalina (v 10.15) | [![macOS Catalina (v 10.15)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/osx_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-macOS-10.15.pkg) |
+| | macOS Catalina (v 10.15) - no libzstd | [![macOS Catalina (v 10.15) - no libzstd](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/osx_box.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-macOS-10.15-no-libzstd.pkg) |
+| Linux | Ubuntu Jammy Jellyfish (v 22.04) | [![Ubuntu Jammy Jellyfish (v 22.04)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-Linux-Ubuntu-22.04.deb) |
+| | Ubuntu Focal Fossa (v 20.04) | [![Ubuntu Jammy Jellyfish (v 22.04)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-Linux-Ubuntu-20.04.deb) |
+| | Ubuntu Bionic Beaver (v 18.04) | [![Ubuntu Bionic Beaver (v 18.04)](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-Linux-Ubuntu-18.04.deb) |
+| | Fedora 34 | [![Fedora 34](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-Linux-Fedora-34.deb) |
+| | Fedora 34 | [![Fedora 34](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/rpm.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.gc4498c2-Linux-Fedora-34.rpm) |
+| ARM | Ubuntu-ppc64le | [![Ubuntu-ppc64le](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.g-Ubuntu-ppc64le.deb) |
+| | Ubuntu-x390x | [![Ubuntu-x390x](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.g-Ubuntu-x390x.deb) |
+| | Ubuntu-arm64v8 | [![Ubuntu-arm64v8](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.g-Ubuntu-arm64v8.deb) |
+| | Ubuntu-arm32v7 | [![Ubuntu-arm32v7](https://raw.githubusercontent.com/wiki/analogdevicesinc/libiio/img/deb.png)](https://github.com/analogdevicesinc/libiio/releases/download/v0.24/libiio-0.24.g-Ubuntu-arm32v7.deb) |
+</details>
 
 See all releases [here](https://github.com/analogdevicesinc/libiio/releases).
 
